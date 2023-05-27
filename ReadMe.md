@@ -5,7 +5,8 @@
 
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
+# Achievements:
+(https://diariodaplanicie.com/blogdomayconmorais/wp-content/uploads/sites/2/2019/10/trof%C3%A9u.jpg)
 # 📊 GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Diogopmota&theme=default&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Diogopmota&theme=default&hide_border=true)<br/>
